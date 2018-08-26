@@ -1,4 +1,19 @@
+# About this App
+Tic Tac Toe Game by following an online tutorial:
+
 https://reactjs.org/tutorial/tutorial.html
+
+## Notes
+First time using react.  Following the directions posted on the reactjs website, I was able to understand some of the functionality of react and its similarities with other js vocabulary.  I intend to come back to this project and change some features.
+- alert and option to reset upon winning
+- sizing and directions
+
+but for now, this is a good start to gain some confidence.
+Thanks for reading
+-Mark
+
+# Readme below came with the react initial build.
+## Leaving these in here for my future reading and reference!
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
